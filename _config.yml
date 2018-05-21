@@ -4,7 +4,7 @@ bio:                'Personal Website'
 description:        "My Posts can be found here"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/A_icon.ico'
+logo:               'assets/img/Ayush_Kumar_Rai.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
