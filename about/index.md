@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2018-05-21
 comments: false
