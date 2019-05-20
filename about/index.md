@@ -6,7 +6,7 @@ date: 2018-05-21
 comments: false
 ---
     
-I am a Graduate Student at Ecole CentraleSupelec, University of Paris-Saclay, Paris pursuing M.Sc in Artificial Intelligence.
+I am a Graduate Student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence.
 
 Prior to this, I was working at StegoSOC (Formerly Cloudadic, a US based AI Startup  in CyberSecurity) as Deep Learning Engineer in Bangalore, India. Previously I had also been engaged in IIITD‘s project on Self Driving Cars for Indian Roads (part of Spark The Rise : Driver-less Car Challenge by Mahindra) as Research Associate and was also employed at an AI based startup Cube26 (Acquired by Paytm) as Data Science and Machine Learning intern.
 
