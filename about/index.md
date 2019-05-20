@@ -13,5 +13,5 @@ I firmly hold the opinion that the true essence of engineering is to solve real 
 I prefer working in Research Labs to work with people who are driven by passion, dignity and vigor. Currently I am looking for Master’s Thesis (Research) starting April/May 2019.
 
 Email me here  
-[ayush.rai2512@student-cs.fr](ayush.rai2512@student-cs.fr)
+[ayush.rai2512@student-cs.fr](ayush.rai2512@student-cs.fr)  
 [ayush.rai2512@gmail.com](ayush.rai2512@gmail.com)
