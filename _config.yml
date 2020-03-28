@@ -6,7 +6,7 @@ reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/ayush_crop.jpg'
 background:         'assets/img/centralesupelec.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://rayush7.github.io
 
@@ -40,7 +40,7 @@ disqus_shortname:   ayushrai
 email:              ayush.rai2512@gmail.com
 googlescholar:      KfUzxakAAAAJ
 twitter:            ayushrai25
-#facebook:           username
+#facebook:          username
 github-url:         rayush7
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           ayush-rai-8ab9b24a
