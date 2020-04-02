@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $white;
+	background-color: $gray;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -99,7 +99,7 @@ body {
 	@media #{$small} {
 		padding: 0 1em;
 	}
-	opacity : 0.1
+	opacity : 1.0
 }
 .wrapper {
 	width: 75%;
