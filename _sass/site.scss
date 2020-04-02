@@ -75,7 +75,7 @@ body {
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();
-	background-color: $gray;
+	background-color: $silver;
 	color: $color_shark;
 	z-index: 1;
 	border-radius: 3px;
@@ -88,6 +88,7 @@ body {
 	@media #{$medium} {
 		width: 80%;
 	}
+	opacity : 0.1
 }
 .row {
 	margin-top: 15px;
