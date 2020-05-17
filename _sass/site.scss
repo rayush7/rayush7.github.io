@@ -88,7 +88,7 @@ body {
 	@media #{$medium} {
 		width: 80%;
 	}
-	opacity : 0
+	opacity : 1.0
 }
 .row {
 	margin-top: 15px;
@@ -100,7 +100,7 @@ body {
 	@media #{$small} {
 		padding: 0 1em;
 	}
-	opacity : 0
+	opacity : 1.0
 }
 .wrapper {
 	width: 75%;
