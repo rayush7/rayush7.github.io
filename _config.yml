@@ -1,10 +1,10 @@
 # Site
 title:              Ayush K. Rai
-bio:                'Graduate Student in AI, Ecole CentraleSupelec'
+bio:                'PhD Student in Machine Learning at Insight Centre for Data Analytics'
 description:        "My Posts can be found here"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/ayush_crop.jpg'
+logo:               'assets/img/ayush_image.jpg'
 background:         'assets/img/centralesupelec.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
