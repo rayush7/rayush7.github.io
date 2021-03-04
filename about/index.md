@@ -7,7 +7,7 @@ comments: false
 ---
     
 
-I am a 1st year doctoral student in Machine Learning at Insight Centre for Data Analytics. Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence.
+I am a 1st year doctoral student in Machine Learning at [Insight Centre for Data Analytics](https://www.insight-centre.org/). Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence.
 
 My research interests include Video Understanding, Action Understanding, Graph Neural Networks.
 
