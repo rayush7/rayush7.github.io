@@ -1,5 +1,5 @@
 ---
 layout: project
-title: Publications
+title: publications
 comments: false
 ---
