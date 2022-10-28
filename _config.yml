@@ -4,7 +4,7 @@ bio:                'PhD Student in Machine Learning at Insight Centre for Data 
 description:        "My Posts can be found here"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/ayush_crop.jpg'
+logo:               'assets/img/ayush_crop.png'
 background:         'assets/img/centralesupelec.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
