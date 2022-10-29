@@ -15,6 +15,6 @@ Email me here
 [ayush.rai@insight-centre.org](ayush.rai@insight-centre.org)  
 [ayush.rai2512@gmail.com](ayush.rai2512@gmail.com)
 
-#### <span style="color:red">some *News* text</span>
+#### <span style="color:red">*News*</span>
 * One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/)
 * One paper accepted at [IMVIP 2022](https://imvipconference.github.io/)
