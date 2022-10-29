@@ -15,17 +15,6 @@ Email me here
 [ayush.rai@insight-centre.org](ayush.rai@insight-centre.org)  
 [ayush.rai2512@gmail.com](ayush.rai2512@gmail.com)
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-        <tr>
-          <td style="padding:2.5%;width:100%;vertical-align:middle">
-            <heading>News</heading>
-            <p></p>
-            <div class="listbox">
-              <ul>
-                <li> One paper accepted at <a href="https://wacv2023.thecvf.com/">WACV 2023</a>.
-                    <li> One paper accepted at <a href="https://imvipconference.github.io/">IMVIP 2022</a>.
-                </ul>
-            </div>
-          </td>
-        </tr>
-</table>
+#### News
+* One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/)
+* One paper accepted at [IMVIP 2022](https://imvipconference.github.io/)
