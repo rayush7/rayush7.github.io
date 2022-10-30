@@ -1,9 +1,22 @@
 <!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+  {% include head.html %}
 </head>
 
 <body>
+
+  {% include nav.html %}
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-chevron-left"></i>
+                    </a>
+                </div>
 
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
@@ -37,6 +50,16 @@
                [<a href="https://arxiv.org/pdf/2207.12065"><em>arXiv</em></a>] [<a href="https://github.com/KrishnaTarun/SSL_DGC">Code</a>]<br>
              </td>
            </tr> </tbody></table> <br>
+
+          </div>
+        </div>
+        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
+    </header>
+    {% include scripts.html %}
+    {% if site.mathjax == true %}
+    <!-- MathJax -->
+    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    {% endif %}
 
 </body>
 </html>
