@@ -12,9 +12,6 @@ I am a $$3^{rd}$$ year doctoral student in computer vision and deep learning at 
 Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence. I completed my master's research Internship at [Centre for Robotics](https://www.caor.minesparis.psl.eu/), [MINES ParisTech](https://mines-paristech.eu/).  
 
 
-Email me here  
-[ayush.rai@insight-centre.org](ayush.rai@insight-centre.org)  
-
 #### <span style="color:red"> News </span>
 * One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/)
 * One paper accepted at [IMVIP 2022](https://imvipconference.github.io/)
