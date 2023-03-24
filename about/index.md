@@ -11,7 +11,7 @@ I am a $$3^{rd}$$ year doctoral student in computer vision and deep learning at 
 
 Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence. I completed my master's research Internship at [Centre for Robotics](https://www.caor.minesparis.psl.eu/), [MINES ParisTech](https://mines-paristech.eu/).  
 
-Currently I am actively looking for Research Internships in the field of video understanding. 
+**Currently I am actively looking for Research Internships in the field of video understanding.** 
 
 
 #### <span style="color:red"> News </span>
