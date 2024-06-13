@@ -15,7 +15,7 @@ Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.ce
 
 
 #### <span style="color:red"> News </span>
-* One paper accepted at [CVPR 2024 - Visual Anomaly and Novelty Detection Workshop (VAND 2.0) ](https://cvpr.thecvf.com/) 
+* One paper accepted at [CVPR 2024 Workshop on Visual Anomaly and Novelty Detection (VAND 2.0) ](https://cvpr.thecvf.com/) 
 * One paper accepted at [BMVC 2023](https://bmvc2023.org/) 
 * One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/)
 * One paper accepted at [IMVIP 2022](https://imvipconference.github.io/)
