@@ -17,5 +17,8 @@ Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.ce
 #### <span style="color:red"> News </span>
 * One paper accepted at [CVPR 2024 Workshop on Visual Anomaly and Novelty Detection (VAND 2.0) ](https://cvpr.thecvf.com/) 
 * One paper accepted at [BMVC 2023](https://bmvc2023.org/) 
+* Attended [ELLIS Large Scale AI Summer School 2023](https://ellis.eu/events/ellis-summer-school-on-large-scale-ai-for-research-and-industry-modena-unit) 
+* Attended [M^2L Summer School 2023](https://www.m2lschool.org/past-editions/m2l-2023-greece) 
 * One paper accepted at [WACV 2023](https://wacv2023.thecvf.com/)
 * One paper accepted at [IMVIP 2022](https://imvipconference.github.io/)
+* Attended [PAISS 2021 Summer School](https://project.inria.fr/paiss/) 
