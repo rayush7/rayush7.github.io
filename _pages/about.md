@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>PhD Student</b>, <a href='https://www.insight-centre.org/'>Insight Research Centre for Data Analytics</a>
 
 profile:
   align: right
