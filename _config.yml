@@ -49,7 +49,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false #true
-socials_in_search: true
+socials_in_search: false #true
 
 # Dimensions
 max_width: 930px
