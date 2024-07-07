@@ -317,8 +317,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [my_last]
-  first_name: [my_first]
+  last_name: Rai
+  first_name: Ayush K.
 
   style: apa
   locale: en
