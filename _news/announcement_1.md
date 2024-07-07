@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+1 paper accepted at [CVPR 2024 Workshop on Visual Anomaly and Novelty Detection (VAND 2.0) ](https://cvpr.thecvf.com/) 
