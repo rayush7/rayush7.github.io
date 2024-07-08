@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Attended [PAISS 2021 Summer School](https://project.inria.fr/paiss/) 
+Attended [PAISS 2021 Summer School](https://project.inria.fr/paiss/), Grenoble, France. 
 

@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Attended [M^2L 2023 Summer School](https://www.m2lschool.org/past-editions/m2l-2023-greece) 
+Attended [M^2L 2023 Summer School](https://www.m2lschool.org/past-editions/m2l-2023-greece), Thessaloniki, Greece 
 
