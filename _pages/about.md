@@ -24,4 +24,7 @@ Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.ce
 
 **Research interests:** Computer Vision, Machine Learning, Deep Learning, Video Understanding, Multi-modal Learning: Vision + Language <br>
 
-**Currently I am actively looking for Research Internships in the field of video understanding.** 
+
+<span style="color:red"> **Currently I am actively looking for Research Internships in the field of video understanding.**  </span>
+
+
