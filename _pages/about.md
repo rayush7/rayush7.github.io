@@ -18,12 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a $$3^{rd}$$ year doctoral student in computer vision and deep learning at [Insight Centre for Data Analytics](https://www.insight-centre.org/) under the supervision of [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). My research interests include learning robust and fine-grained video representations. Recently I have developed an interesting in efficient computational methods for video understanding.
+I am a final year doctoral student in computer vision and deep learning at [Insight Centre for Data Analytics](https://www.insight-centre.org/) under the supervision of [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). 
+
+**Research interests:** Computer Vision, Machine Learning, Deep Learning, Video Understanding, Efficient computational methods, Multi-modal Learning: Vision + Language.
 
 Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence. I completed my master's research Internship at [Centre for Robotics](https://www.caor.minesparis.psl.eu/), [MINES ParisTech](https://mines-paristech.eu/).  
 
-**Research interests:** Computer Vision, Machine Learning, Deep Learning, Video Understanding, Multi-modal Learning: Vision + Language. <br>
 
-**Currently I am actively looking for Research Internships in the field of video understanding.**
+**Currently I am actively looking for Full-time Machine Learning Research/Engineer roles.** Please get in touch to discuss more.
 
 
