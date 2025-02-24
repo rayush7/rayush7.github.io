@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>PhD Student</b>, <a href='https://www.insight-centre.org/'>Insight Research Centre for Data Analytics</a>
+subtitle: <b>ML Researcher, PhD</b>, <a href='https://www.insight-centre.org/'>Insight Research Centre for Data Analytics</a>
 
 profile:
   align: right
