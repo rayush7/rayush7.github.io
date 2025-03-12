@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-PhD graduate in computer vision and deep learning from [Insight Centre for Data Analytics](https://www.insight-centre.org/) advised by [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). 
+PhD graduate in computer vision and deep learning from [Insight Centre for Data Analytics](https://www.insight-centre.org/), advised by [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). 
 
 **Research interests:** Computer Vision, Machine Learning, Deep Learning, Video Understanding, Efficient computational methods, Multi-modal Learning: Vision + Language.
 
