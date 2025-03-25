@@ -418,9 +418,9 @@ ul.task-list input[type="checkbox"] {
   transform: translate(-50%, -50%);
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 120px) {
   .wechat-modal > img {
-    width: 100%;
+    width: 30%;
   }
 }
 
