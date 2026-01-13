@@ -25,6 +25,6 @@ PhD graduate in computer vision and deep learning from [Insight Centre for Data 
 Prior to this, I was a graduate student at [Ecole CentraleSupelec](http://www.centralesupelec.fr/en), [University of Paris-Saclay](https://www.universite-paris-saclay.fr/en), Paris pursuing M.Sc in Artificial Intelligence. I completed my master's research Internship at [Centre for Robotics](https://www.caor.minesparis.psl.eu/), [MINES ParisTech](https://mines-paristech.eu/).  
 
 
-**Currently I am actively looking for Full-time Machine Learning Researcher/Engineer/Scientist roles.** Please get in touch to discuss more.
+**Currently I am actively looking for Full-time Machine Learning Researcher/Engineer/Scientist roles.** Please get in touch to discuss more. 
 
 
