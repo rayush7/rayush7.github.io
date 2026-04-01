@@ -6,7 +6,7 @@ subtitle: <b>ML Researcher, PhD</b>, <a href='https://www.insight-centre.org/'>I
 
 profile:
   align: right
-  image: profile_pic.jpeg
+  image: ayush_picture.jpg
   image_circular: false # crops the image to make it circular
   more_info: #>
     #<p>555 your office number</p>
