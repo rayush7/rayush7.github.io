@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-AI Research Scientist/Engineer with 5+ years of experience in multimodal AI, self-supervised learning and video understanding across academia and industry. Designed and implemented scalable deep learning systems for foundation models, video representation learning and generative modeling, with publications at CVPR, ICCV, WACV, and BMVC. Experienced in large-scale training and building efficient models for real-world data.
+AI Research Scientist/Engineer with 5+ years of experience in multimodal AI, self-supervised learning and video understanding across academia and industry. Designed and implemented scalable deep learning systems for foundation models, video representation learning and generative modeling, with publications at CVPR, ICCV, WACV, and BMVC. Experienced in large-scale training and building efficient models for real-world data. 
 
 PhD in computer vision and deep learning from [Insight Centre for Data Analytics](https://www.insight-centre.org/), advised by [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). 
 
