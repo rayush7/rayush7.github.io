@@ -22,7 +22,7 @@ AI Research Scientist/Engineer with 5+ years of experience in multimodal AI, sel
 
 PhD in computer vision and deep learning from [Insight Centre for Data Analytics](https://www.insight-centre.org/), advised by [Prof. Alan F. Smeaton](https://www.computing.dcu.ie/~asmeaton/) and [Prof. Noel O'Connor](https://www.insight-centre.org/our-team/prof-noel-oconnor/). 
 
-I have collaborated with researchers from [Intel Labs](https://www.intel.com/content/www/us/en/research/ai.html), [Xperi](https://xperi.com/) and [Fin.AI](https://fin.ai/).
+I have collaborated with researchers from [Intel Labs](https://www.intel.com/content/www/us/en/research/ai.html), [Xperi](https://xperi.com/) and [Fin.ai](https://fin.ai/).
 
 **Research interests:** Computer Vision, Machine Learning, Deep Learning, Video Understanding, Efficient computational methods, Multi-modal Learning: Vision + Language.
 
